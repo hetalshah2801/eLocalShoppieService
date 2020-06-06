@@ -1,0 +1,6 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  host: eLocalShoppieService
+  name: eLocalShoppieService
+  memory: 64M
