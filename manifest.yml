@@ -1,6 +1,7 @@
 ---
 applications:
-- buildpack: https://github.com/cloudfoundry/java-buildpack.git
-  host: eLocalShoppieService
-  name: eLocalShoppieService
-  memory: 64M
+ - name: eLocalShoppieService
+   random-route: true
+   path: target/springboot-mongodb-crud-0.0.1-SNAPSHOT.jar
+   memory: 256M
+   instances: 1
