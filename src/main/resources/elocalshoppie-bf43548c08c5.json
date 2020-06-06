@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "elocalshoppie",
+  "private_key_id": "bf43548c08c5d6453855b7f095c54efb4c023a5f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIUJB7oT8J2ye8\nDw38PYlBGPM6+tbMPvv4SCGWJsSm3NecA5ijTHb7Po6ju0Y6g3ulvgSCwfSHYMcj\nq7Kybe2XZPuAIZR+m9A9lthoeW2Cw/ViPIRvKMdx3WMYd8CvSXtshm7sjqQracX/\nEKpxZCtlFPL+rqGSJ75bHY7vmgb3xFPsjLF/mawOLhjzvRxmDgXKvR+MEvwJRsQ1\nMU6PY5Ed3qZRV8FoCHa8UqLufm7S1R8z5gH3mIBxIAFP2UacZLsjIehA8BiiuL8M\nGjBM4Zz35Qs1lgwAhc2dHi9AqYdkY0QMXMwaTg2Ist+AB+fdv7zx13WMpc2ote+V\nHp4cB8rRAgMBAAECggEAHkM1oMfaizWlyh6IIVx2mPQZAwcUXmUBkh/rmxCeUws4\nM6TDcaBCtXBdAlVvpbVpf7+2VL7Sn4U6cKQm6hf7dgzWhiQMmBgYHMXmSdpWdhP+\nxWmZJGYHw6cLqo2k+ZZjZCDnLyvZl4lyVTeCWIEmoS3KDDn7xOXmN0O+7WnataGZ\nkEIRjNQ1teSa7MG0FsK0Eo1TzUCWfoi5/U697W6QRS1YySOSGVxycnwlx+E7JqfL\nDyfvaaSOc2i4HcaUdCCNwEtmIy2BB0XlWYmnsIh2fgcL4Qvb5v+Yrqn9MhPw0EAF\npyLvAMJgqrSQWWGzXUPBBlLMNht3cpg+WHDLmR371QKBgQD/9RVjUsoHrAzkiwtV\ny+cgwy06+/GJsT2w+rVMaH2cjHeq5xSJ/aQv9xEQwq5a9UGvqKFWuzY3o+AYvaPS\n86bEHtUTqztNU/Lu9iK7csKwWDw9MVP5Ijmljk0wOckrZtFgU23YTFimo6oNJgnz\nGchkfHryD96dn5b7F9+HhHqv7wKBgQDIWRuSxgoxI/1Y4eQYcz56x95UqNbBW0mf\nupuSjZXjGJZTSXfNJjii8ucEOJx34R6gNM5WVfTOyc5wWpm3H/1XTvFDY3oy/vUP\nu2SdT9AxNPa2ElSdH7nfIyXOs0fP2KA9+0PBoELhmt+ht8U1dUHuuzqTplzhHyHg\n2Mx+WrJxPwKBgQDkcl1FifXRhSj4rnVOfS/r2Oe8tnNtHqleFVXNPZGnMOP5wEdf\npedt/AjaObgebLnUyyA85djNLlFsI45dUKQudQpehLzoFp5D06FKRnInrIkPYMB/\nIqHq9qhD+79mIl2LqMroe7O//2FeXO4ScJefwE6HT8y0SGUb9MHIFWDfNwKBgD6p\nsDgd/P4VtZ3hOUh0cyxP6zgrftAHT2XIJfSWmDTpccsnBXOC6t/8fUkSs83C+aM+\nIPNb+y/aatk1XTKrrL9sD4X2TTg6CkgbYoLZfdKGMEwOO6zRSX+DLMYTyPg3VxdL\nyYt8Jq8Nk7ivE91+iVqz8MRRmmdHJ39+D6fNklZdAoGBAJUSAhyEWWbmIqxf1TXc\n6FY1V2mNs5ITOjQZ6KY/u/ljYznHfQ1sUYUP/JHGVY6DckSS6eQqas4tXLSxGcqU\nTWruYB0De3OaQJ3581gPRBkmMx4DGb8NafC1oYFloisKtyII50Z7u+YRq850THTT\nL/6ulVFQQmGeY/qcKdAQDrg9\n-----END PRIVATE KEY-----\n",
+  "client_email": "elocalshoppiedetails@elocalshoppie.iam.gserviceaccount.com",
+  "client_id": "117311161009547384799",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/elocalshoppiedetails%40elocalshoppie.iam.gserviceaccount.com"
+}
